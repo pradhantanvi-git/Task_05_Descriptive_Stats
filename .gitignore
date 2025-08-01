@@ -1,0 +1,6 @@
+# Ignore dataset files
+*.csv
+*.xlsx
+*.json
+data/
+Dataset/
